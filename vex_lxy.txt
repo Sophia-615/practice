@@ -1,0 +1,11 @@
+git add vex_lxy.txt
+
+git status
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   vex_lxy.txt
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   vex_lxy.txt
